@@ -41,7 +41,7 @@ const ServiceCard = (props) => {
                     activeColor="#ffd700"
                   />
                 }
-                <p className="fw-semibold">${cost}</p>
+                <h3 className="fw-semibold">${cost}</h3>
                 
             </Card.Text>
             <NavLink to="/home" style={style}>Start Learning</NavLink>
