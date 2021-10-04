@@ -1,0 +1,42 @@
+.body-style{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+    margin-top:30vh;
+    font-family:Sans-serif;
+}
+.button-style{
+    color:white;
+    background-color:#34ADF6;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    border: none;
+    border-radius:4px;
+}
+.div404{
+    width:45%;
+    float:left;
+    margin-left:50px;
+}
+.header404{
+    font-weight:bold;
+    font-size:34px;
+}
+.text404{
+    font-size:25px;
+    text-align:left;
+}
+.img404{
+    float: right;
+}
+.img404Container{
+    width:40%;
+}

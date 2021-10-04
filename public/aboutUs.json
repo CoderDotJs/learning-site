@@ -1,0 +1,66 @@
+[{
+    "id": 1,
+    "full_name": "Bella Maystone",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/01.jpg",
+    "gender": "Genderfluid",
+    "post": "Software Development",
+    "address": "54 Bay Junction",
+    "coutry": "Norway"
+  }, {
+    "id": 2,
+    "full_name": "Haze Jeavons",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/02.jpg",
+    "gender": "Male",
+    "post": "UI/UX Designer",
+    "address": "6 Blackbird Plaza",
+    "coutry": "United States"
+  }, {
+    "id": 3,
+    "full_name": "Augie Haggerstone",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/03.jpg",
+    "gender": "Non-binary",
+    "post": "Programmer",
+    "address": "99 Straubel Terrace",
+    "coutry": "Ecuador"
+  }, {
+    "id": 4,
+    "full_name": "Frederica Helis",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/04.jpg",
+    "gender": "Bigender",
+    "post": "Digital Marketer",
+    "address": "1206 Lake View Parkway",
+    "coutry": "China"
+  }, {
+    "id": 5,
+    "full_name": "Courtney Tonepohl",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/09.jpg",
+    "gender": "Genderqueer",
+    "post": "IT Specialist",
+    "address": "056 Dunning Crossing",
+    "coutry": "Macedonia"
+  }, {
+    "id": 6,
+    "full_name": "Roland Kienle",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/10.jpg",
+    "gender": "Bigender",
+    "post": "UArt Specialist",
+    "address": "7861 Hoepker Plaza",
+    "coutry": "Italy"
+  }, {
+    "id": 7,
+    "full_name": "Currey Folbige",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/11.jpg",
+    "gender": "Genderqueer",
+    "post": "HR Manager",
+    "address": "1642 Old Gate Court",
+    "coutry": "Uganda"
+  }, {
+    "id": 8,
+    "full_name": "Tanitansy Seabrook",
+    "img": "https://html.creativegigs.net/zoomy/assets/img/instructor/12.jpg",
+    "gender": "Female",
+    "post": "Helper",
+    "address": "83 Melvin Parkway",
+    "coutry": "China"
+  }]
+  

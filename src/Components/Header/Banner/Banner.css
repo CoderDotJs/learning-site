@@ -1,0 +1,26 @@
+.banner{
+    background: url('./img/header.jpg') no-repeat;
+    background-size: cover;
+    height: 350px;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.banner-text{
+    height: auto;
+    width: 500px;
+    background: white;
+    padding: 30px;
+}
+.btn-primary{
+    background-color: #0d6efd;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+}
+.btn-dark{
+    color: white;
+    background: black;
+    padding: 8px 15px;
+}
